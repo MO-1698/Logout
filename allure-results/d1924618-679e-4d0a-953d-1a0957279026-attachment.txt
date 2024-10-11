@@ -1,0 +1,58 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                    Test Method: 'LogoutTests.validateLogout'                                                    
+                                                    Test Description: 'Validate user logout'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @05-10-2024 20:41:51.0346 PM
+[ReportManager] Initial URL: "about:blank" @05-10-2024 20:41:51.0386 PM
+[ReportManager] Navigate to url "https://automationexercise.com/". @05-10-2024 20:41:59.0687 PM
+[ReportManager] Verify that the element located by "By.xpath: //a[@style="color: orange;"]" text is equal to "Home". @05-10-2024 20:41:59.0744 PM
+[ReportManager] Expected "Home", and actual "Home" @05-10-2024 20:42:00.0018 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-42-11-935_05102024' @05-10-2024 20:42:11.0959 PM
+[ReportManager] Expected "Home", and actual "Home" @05-10-2024 20:42:11.0964 PM
+[ReportManager] Verification passed @05-10-2024 20:42:11.0964 PM
+[ReportManager] Moved the mouse to the middle of the element. @05-10-2024 20:42:12.0225 PM
+[ReportManager] Click "By.xpath: //a[@href="/login"]//i[@class="fa fa-lock"]". @05-10-2024 20:42:19.0443 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="login-form"]//h2" text contains "Login to your account". @05-10-2024 20:42:19.0447 PM
+[ReportManager] Expected "Login to your account", and actual "Login to your account" @05-10-2024 20:42:19.0645 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-42-20-989_05102024' @05-10-2024 20:42:20.0989 PM
+[ReportManager] Expected "Login to your account", and actual "Login to your account" @05-10-2024 20:42:20.0989 PM
+[ReportManager] Verification passed @05-10-2024 20:42:21.0005 PM
+[ReportManager] Text cleared Using Native Clear @05-10-2024 20:42:21.0211 PM
+[ReportManager] Type "Sam@yahoo.com" into "Email Address". @05-10-2024 20:42:21.0371 PM
+[ReportManager] Text cleared Using Native Clear @05-10-2024 20:42:21.0543 PM
+[ReportManager] Type "123456" into "Password". @05-10-2024 20:42:21.0676 PM
+[ReportManager] Moved the mouse to the middle of the element. @05-10-2024 20:42:21.0872 PM
+[ReportManager] Click "Login". @05-10-2024 20:42:26.0226 PM
+[ReportManager] Verify that the element located by "By.xpath: //ul[@class="nav navbar-nav"]" text contains "Logged in as Sam". @05-10-2024 20:42:26.0234 PM
+[ReportManager] Expected "Logged in as Sam", and actual "Home
+ Products
+Cart
+Logout
+Delete Account
+Test Cases
+API Testing
+Video Tutorials
+Contact us
+Logged in as Sam" @05-10-2024 20:42:26.0451 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-42-37-182_05102024' @05-10-2024 20:42:37.0198 PM
+[ReportManager] Expected "Logged in as Sam", and actual "Home
+ Products
+Cart
+Logout
+Delete Account
+Test Cases
+API Testing
+Video Tutorials
+Contact us
+Logged in as Sam" @05-10-2024 20:42:37.0206 PM
+[ReportManager] Verification passed @05-10-2024 20:42:37.0206 PM
+[ReportManager] Moved the mouse to the middle of the element. @05-10-2024 20:42:37.0403 PM
+[ReportManager] Click " Logout". @05-10-2024 20:42:39.0965 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="login-form"]//h2" text contains "Login to your account". @05-10-2024 20:42:39.0980 PM
+[ReportManager] Expected "Login to your account", and actual "Login to your account" @05-10-2024 20:42:40.0235 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-42-41-521_05102024' @05-10-2024 20:42:41.0528 PM
+[ReportManager] Expected "Login to your account", and actual "Login to your account" @05-10-2024 20:42:41.0528 PM
+[ReportManager] Verification passed @05-10-2024 20:42:41.0528 PM
